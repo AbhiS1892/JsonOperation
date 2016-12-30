@@ -1,0 +1,14 @@
+First_Name,Last_Name,Date_of_birth,Height,Salary
+Nathan,Astle,1971-05-18,155,41000
+Methews,Haiden,1971-05-18,165,40230
+Elliot,Luca,1971-05-18,172,40230
+Steve,Finn,1971-05-18,189,38990
+Daniel,Clerk,1971-05-18,190,40230
+John,Smith,1971-05-18,invalid string,40230
+Nathan,Astle,1971-05-19,155,41000
+Nathaniel,Stewert,1980-08-10,125,31250
+Allan,Hernandez,1981-01-19,178,23789
+Arthur,Harrison,1982-01-29,168,50500
+Cameron,White,1982-01-29,170,47450
+Harley,Smith,1988-05-21,185,28500
+Michael,Johnson,1990-03-26,152,25280
